@@ -1,4 +1,5 @@
-# readme-only-starter
+# Add functions
 
-This Glitch starter project is empty apart from this README.md file! Update this file after you add some contents.
+Creating the Add Playlist and Add Song functions
+
 
