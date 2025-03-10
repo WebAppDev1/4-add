@@ -1,4 +1,7 @@
-# readme-only-starter
+# MVC Lab 3
 
-This Glitch starter project is empty apart from this README.md file! Update this file after you add some contents.
+- Adding the playlist store
+- Using Handlebars helpers
+- Adding dynamic views to the app
+
 
