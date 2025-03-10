@@ -1,5 +1,4 @@
 'use strict';
-
 import logger from "../utils/logger.js";
 
 const about = {
@@ -7,10 +6,10 @@ const about = {
     logger.info("About page loading!");
     
     const viewData = {
-      title: "Playlist App About"
+      title: "About the Playlist App"
     };
     
-    response.render('about', viewData);
+    response.render('about', viewData);   
   },
 };
 

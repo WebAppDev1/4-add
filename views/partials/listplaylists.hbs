@@ -12,27 +12,21 @@
     <section class="ui left aligned middle aligned segment">
 
       <h3 class="ui header">
-        {{uppercase title}}
+        {{title}}
       </h3>
       
-      <p>
-      <i class="music icon"></i>
       {{#if songs}}
-        Total songs:
-        {{songs.length}}
-
-        {{else}}
-        Empty playlist!
-      {{/if}}
-
-      {{#if date}}
-        <br>
-        <i class="calendar alternate outline icon"></i>
-        Created on <i>{{formatDate date}}</i>
-      {{/if}}
-    </p>
+        <p>
+          Total songs: {{songs.length}}
+        </p>
       
-      <a href="/playlist/{{id}}"> View </a>
+      {{else}}
+        <p>
+          Empty playlist!
+        </p>
+      {{/if}}
+      
+      <a href="/playlist/{{id}}"><i class = "ui open folder outline black icon"></i></a>
     </section>
   {{/each}}
 

@@ -1,5 +1,7 @@
-# Add functions
+# Search and Add
 
-Creating the Add Playlist and Add Song functions
+- Search by category
+- Add songs
+- Add playlists
 
 

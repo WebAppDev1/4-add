@@ -3,94 +3,96 @@
     {
       "id": "01",
       "title": "Beethoven Sonatas",
+      "category": "Classical",
       "songs": [
         {
           "id": "04",
           "title": "Piano Sonata No. 3",
-          "artist": "Beethoven",
-          "genre": "Classical",
-          "duration": 11
+          "artist": "Beethoven"
         },
         {
           "id": "05",
           "title": "Piano Sonata No. 7",
-          "artist": "Beethoven",
-          "genre": "Classical",
-          "duration": 33
+          "artist": "Beethoven"
         },
         {
           "id": "06",
           "title": "Piano Sonata No. 10",
-          "artist": "Beethoven",
-          "genre": "Classical",
-          "duration": 15
-        },
-        {
-          "id": "4157b28f-e0f9-4f2a-bd44-24488e2bd96f",
-          "title": "Piano Sonato No. 12",
-          "artist": "Beethoven",
-          "genre": "Classical",
-          "duration": "21"
-        },
-        {
-          "id": "1d5ffb36-b2d6-4299-96a5-1d0f5b169f16",
-          "title": "Piano Sonato No. 15",
-          "artist": "Beethoven",
-          "genre": "Classical ",
-          "duration": "21"
+          "artist": "Beethoven"
         }
       ]
     },
     {
       "id": "02",
       "title": "Beethoven Concertos",
+      "category": "Classical",
       "songs": [
         {
           "id": "07",
           "title": "Piano Concerto No. 0",
-          "artist": "Beethoven",
-          "genre": "Classical",
-          "duration": 17
+          "artist": "Beethoven"
         },
         {
           "id": "08",
           "title": "Piano Concerto No. 4",
-          "artist": "Beethoven",
-          "genre": "Classical",
-          "duration": 25
+          "artist": "Beethoven"
         },
         {
           "id": "09",
           "title": "Piano Concerto No. 6",
-          "artist": "Beethoven",
-          "genre": "Classical",
-          "duration": 29
+          "artist": "Beethoven"
         }
       ]
     },
     {
       "id": "03",
       "title": "Beethoven Unfinished Symphonies",
+      "category": "Unfinished Works",
       "songs": []
     },
     {
-      "id": "d12f21e5-2624-4ce0-aec1-985b62436120",
-      "title": "New Playlist",
+      "id": "04",
+      "title": "Beethoven Symphonies",
+      "category": "Orchestral Works",
       "songs": [
         {
-          "id": "08398186-c68f-4bcd-9a29-bc7939775e9b",
-          "title": "My song",
-          "artist": "U2",
-          "genre": "Rock",
-          "duration": "23"
+          "id": "10",
+          "title": "Symphony No. 5",
+          "artist": "Beethoven"
+        },
+        {
+          "id": "11",
+          "title": "Symphony No. 7",
+          "artist": "Beethoven"
+        },
+        {
+          "id": "12",
+          "title": "Symphony No. 9",
+          "artist": "Beethoven"
         }
       ]
     },
     {
-      "id": "a15126e1-89a6-4160-8858-c9ad474e9484",
-      "title": "Newer Playlist",
-      "songs": [],
-      "date": "2024-01-31T10:14:05.223Z"
+      "id": "05",
+      "title": "Beethoven Overtures",
+      "category": "Orchestral Works",
+      "songs": [
+        {
+          "id": "13",
+          "title": "Egmont Overture",
+          "artist": "Beethoven"
+        },
+        {
+          "id": "14",
+          "title": "Coriolan Overture",
+          "artist": "Beethoven"
+        },
+        {
+          "id": "15",
+          "title": "Leonore Overture No. 3",
+          "artist": "Beethoven"
+        }
+      ]
     }
   ]
 }
