@@ -1,7 +1,7 @@
-# MVC Lab 3
+# Search and Add
 
-- Adding the playlist store
-- Using Handlebars helpers
-- Adding dynamic views to the app
+- Search by category
+- Add songs
+- Add playlists
 
 
