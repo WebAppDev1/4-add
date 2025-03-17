@@ -22,7 +22,7 @@ const dashboard = {
     const newPlayList = {
       id: uuidv4(),
       title: request.body.title,
-	  category: request.body.category,
+	    category: request.body.category,
       songs: [],
     };
     playlistStore.addPlaylist(newPlayList);
